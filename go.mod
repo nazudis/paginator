@@ -2,9 +2,7 @@ module git.verzth.work/go/paginator
 
 go 1.18
 
-require (
-	gorm.io/gorm v1.23.5
-)
+require gorm.io/gorm v1.23.10
 
 require (
 	github.com/jinzhu/inflection v1.0.0 // indirect
