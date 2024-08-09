@@ -1,4 +1,4 @@
-module git.verzth.work/go/paginator
+module github.com/nazudis/paginator
 
 go 1.18
 
